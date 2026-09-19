@@ -1,5 +1,13 @@
 # Asmens kodai // dago
 
+> **Perkelta į monorepo / moved to a monorepo.** Šis įrankis toliau kuriamas
+> [`debesyla/dago-irankiai`](https://github.com/debesyla/dago-irankiai) kataloge
+> [`tools/asmens-kodai`](https://github.com/debesyla/dago-irankiai/tree/main/tools/asmens-kodai),
+> o atviros užduotys perkeltos į
+> [jo užduočių sąrašą](https://github.com/debesyla/dago-irankiai/issues).
+> Šis repozitoriumas paliekamas tik kaip archyvas: istorija, uždarytos užduotys
+> ir commit'ų nuorodos čia lieka veikti.
+
 Lietuviško asmens kodo generatorius ir validatorius, skirtas
 `https://dago.lt/irankiai/asmens-kodai/`.
 
